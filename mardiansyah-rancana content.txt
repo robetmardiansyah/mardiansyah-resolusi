@@ -1,6 +1,8 @@
 RENCANA KONTEN MARDIANSYAH
 
 - Javascript
+  * ES6
+  * Framework Javascript
 - PHP Framworks
 - Interview
 - Vlogs
