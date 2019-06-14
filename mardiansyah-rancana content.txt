@@ -1,0 +1,9 @@
+RENCANA KONTEN MARDIANSYAH
+
+- Javascript
+  * ES6
+  * Framework Javascript
+  * Bimbingan
+- PHP Framworks
+- Interview
+- Vlogs
