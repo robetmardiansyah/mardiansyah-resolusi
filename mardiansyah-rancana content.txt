@@ -3,9 +3,11 @@ RENCANA KONTEN MARDIANSYAH
 - Javascript
   * ES6
   * Framework Javascript
-    ^ Angular
-    ^ React
+    ^Vue
+    ^React
+- Struktur Data Dasar
 - PHP Framworks
   ^ Laravel
 - Interview
 - Vlogs
+- Python
