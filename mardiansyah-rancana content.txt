@@ -7,7 +7,7 @@ RENCANA KONTEN MARDIANSYAH
     ^React
 - Struktur Data Dasar
 - PHP Framworks
-  ^Laravel
+  ^ Laravel
 - Interview
 - Vlogs
 - Python
