@@ -3,8 +3,9 @@ RENCANA KONTEN MARDIANSYAH
 - Javascript
   * ES6
   * Framework Javascript
-  * Bimbingan
-- Struktur Data Dasat
+    ^ Angular
+    ^ React
 - PHP Framworks
+  ^ Laravel
 - Interview
 - Vlogs
