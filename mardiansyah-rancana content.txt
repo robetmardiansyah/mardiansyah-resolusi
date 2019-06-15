@@ -3,8 +3,10 @@ RENCANA KONTEN MARDIANSYAH
 - Javascript
   * ES6
   * Framework Javascript
-  * Bimbingan
-- Struktur Data Dasat
+   ^Vue
+- Struktur Data Dasar
 - PHP Framworks
+  ^Laravel
 - Interview
 - Vlogs
+- Python
